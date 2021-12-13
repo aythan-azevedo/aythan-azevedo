@@ -3,7 +3,7 @@
 - 🔭 a procura do primeiro job como devjunior
 - 🌱 estudando arquitetura de software
 - 👯 eu gosto de projetos que eu possa interagir e compartilhar mais como meu time de desenvolvimento
-- 💻 desenvolvimento front-end em react e context API| backend em node.js e mongodb
+- 💻 desenvolvimento backend em node.js com express e mongodb
 
  <div style="display: inline_block">
   <a href="https://github.com/aythan-azevedo">
