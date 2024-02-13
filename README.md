@@ -1,6 +1,6 @@
 ## Olá eu sou Aythan Azevedo 
 
-- 🔭 a procura do primeiro job como devjunior
+- 🔭 devjunior
 - 🌱 estudando autenticaçâo com jwt
 - 👯 eu gosto de projetos que eu possa interagir e compartilhar mais como meu time de desenvolvimento
 - 💻 desenvolvimento backend em node.js com express e mongodb
